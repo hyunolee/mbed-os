@@ -27,7 +27,6 @@ Mbed OS provides a platform that includes:
 The [release notes](https://os.mbed.com/releases) detail the current release. You can also find information about previous versions.
 
 ## Getting started for developers
- 
 We have a [developer website](https://os.mbed.com) for asking questions, engaging with others, finding information on boards and components, using an online IDE and compiler, reading the documentation and learning about what's new and what's coming next in Mbed OS.
 
 ## Getting started for contributors
